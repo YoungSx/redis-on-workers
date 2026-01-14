@@ -1,5 +1,5 @@
 {
-  "name": "redis-on-workers",
+  "name": "@shangxin/redis-on-workers",
   "version": "0.4.1",
   "description": "Connect to your Redis server using cloudflare:sockets",
   "scripts": {
